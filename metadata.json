@@ -1,0 +1,6 @@
+{
+  "name": "تزریقات و دارو",
+  "description": "نرم‌افزار مدیریت بیماران، رژیم دارویی و فواصل زمانی تزریقات با ثبت تاریخچه و وضعیت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
